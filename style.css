@@ -1,0 +1,19 @@
+body{
+    background-color: cornflowerblue;
+    color: azure;
+}
+
+form label{
+    font-weight: bold;
+    color: brown;
+}
+
+form input{
+    border: 2px soliod blue;
+    background-color: tomato;
+}
+
+form button{
+    border: 2px solid black;
+    background-color: red;
+}
